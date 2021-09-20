@@ -15,8 +15,12 @@
   "license": "ISC",
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.1",
+    "@stripe/stripe-js": "^1.17.1",
+    "graphql": "^15.6.0",
     "if-env": "^1.0.4",
-    "redux": "^4.1.1"
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1",
+    "stripe": "^8.176.0"
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
